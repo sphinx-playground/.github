@@ -1,4 +1,4 @@
-# Welcome to the Sphinx Playground Organization
+# Welcome to the Sphinx Playground!
 This workspace serves as a live, interactive reference dedicated to modern Python repository hygiene, automated documentation workflows, and robust Sphinx compilation pipelines. Instead of treating documentation as a static afterthought, these sandboxes will demonstrate how to treat technical manuals as a core engineering component that's fully integrated in your project, automatically tested, and bulletproof.
 
 ## Example repositories
