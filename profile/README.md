@@ -1,4 +1,4 @@
-# Welcome to the Sphinx Pipeline Organization
+# Welcome to the Sphinx Playground Organization
 This workspace serves as a live, interactive reference dedicated to modern Python repository hygiene, automated documentation workflows, and robust Sphinx compilation pipelines. Instead of treating documentation as a static afterthought, these sandboxes will demonstrate how to treat technical manuals as a core engineering component that's fully integrated in your project, automatically tested, and bulletproof.
 
 ## Example repositories
@@ -16,7 +16,7 @@ This workspace serves as a live, interactive reference dedicated to modern Pytho
 ## Organization layout
 
 ```text
-sphinx-pipeline/                      # The front door of this organization
+sphinx-playground/                    # The front door of this organization
 ├── .github/                          # Directory for GitHub
 │   └── profile/                      # Directory for control of main organization page
 │       └── README.md                 # Main document for the organization (you are here)
