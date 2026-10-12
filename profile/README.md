@@ -3,9 +3,9 @@ This playground provides examples of using Sphinx for documentation, focusing on
 
 ## What's here?
 You'll find these three example repositories to explore:
-* [sphinx-duo-code](https://github.com/sphinx-playground/sphinx-duo-code): the project repository in a split-repository layout
-* [sphinx-duo-docs](https://github.com/sphinx-playground/sphinx-duo-docs): the Sphinx repository in a split-repository layout
-* [sphinx-mono](https://github.com/sphinx-playground/sphinx-mono): a single repository containing both the project and Sphinx
+* [sphinx-single](https://github.com/sphinx-playground/sphinx-single): a single repository containing both the project and Sphinx
+* [sphinx-split-project](https://github.com/sphinx-playground/sphinx-split-project): the project repository in a split-repository layout
+* [sphinx-split-sphinx](https://github.com/sphinx-playground/sphinx-split-sphinx): the Sphinx repository in a split-repository layout
   
 Download or clone the examples, explore their contents, change things, and experiment to your heart's content.
 
