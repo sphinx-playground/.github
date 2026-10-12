@@ -10,7 +10,7 @@ You'll find these three example repositories to explore:
 Download or clone the examples, explore their contents, change things, and experiment to your heart's content.
 
 ## Need help?
-* Want some guidance? Visit the [Sphinx section in my TIL collection](https://github.com/Elliria/til#sphinx), where you'll find explanations, examples, and instructions to help you get started.
+* Want some guidance? Visit my [Sphinx TIL](https://github.com/Elliria/sphinx-til) collection, where you'll find explanations, examples, and instructions to help you get started.
 * Need additional help using the examples or exploring an automated solution for your project? Start a discussion in any of the repositories.
 
 ## Important
