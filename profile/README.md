@@ -1,4 +1,4 @@
-# Welcome to the Sphinx Playground!
+## About
 This playground provides examples of using Sphinx for documentation, focusing on two basic repository layouts: keeping your project and its Sphinx files together in one repository or splitting them across two repositories.
 
 ## What's here?
