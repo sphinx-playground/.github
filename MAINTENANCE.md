@@ -7,18 +7,22 @@ It's a good idea to regularly check the action versions in your repositories for
    * Open the [ci.yml file](https://github.com/sphinx-playground/sphinx-split-host/blob/master/.github/workflows/ci.yml) in the **sphinx-split-host** repository.
 2. Do a search for each of these actions in the file and compare their versions against the versions listed in their action repositories:
    * **actions/checkout:**
-     * Description: [https://github.com/actions/checkout](https://github.com/actions/checkout)
+     * GitHub Marketplace: [https://github.com/marketplace/actions/checkout](https://github.com/marketplace/actions/checkout)
+     * Repository: [https://github.com/actions/checkout](https://github.com/actions/checkout)
      * Releases: [https://github.com/actions/checkout/releases](https://github.com/actions/checkout/releases)
    * **actions/deploy-pages:**
-     * Description: [https://github.com/actions/deploy-pages](https://github.com/actions/deploy-pages)
+     * GitHub Marketplace: [https://github.com/marketplace/actions/deploy-github-pages-site](https://github.com/marketplace/actions/deploy-github-pages-site)
+     * Repository: [https://github.com/actions/deploy-pages](https://github.com/actions/deploy-pages)
      * Releases: [https://github.com/actions/deploy-pages/releases](https://github.com/actions/deploy-pages/releases)
    * **actions/setup-python:**
-     * Description: [https://github.com/actions/setup-python](https://github.com/actions/setup-python)
+     * GitHub Marketplace: [https://github.com/marketplace/actions/setup-python](https://github.com/marketplace/actions/setup-python)
+     * Repository: [https://github.com/actions/setup-python](https://github.com/actions/setup-python)
      * Releases: [https://github.com/actions/setup-python/releases](https://github.com/actions/setup-python/releases)
    * **actions/upload-pages-artifact:**
-     * Description: [https://github.com/actions/upload-pages-artifact](https://github.com/actions/upload-pages-artifact)
+     * GitHub Marketplace: [https://github.com/marketplace/actions/upload-github-pages-artifact](https://github.com/marketplace/actions/upload-github-pages-artifact)
+     * Repository: [https://github.com/actions/upload-pages-artifact](https://github.com/actions/upload-pages-artifact)
      * Releases: [https://github.com/actions/upload-pages-artifact/releases](https://github.com/actions/upload-pages-artifact/releases)
-3. Check the **Description** pages for each action for possible information on deprecated or updated configurations that may need to be added, adjusted, or removed to accommodate the new versions.
+3. Check the **GitHub Marketplace** or **Repository** pages for each action for its latest version and for possible information on deprecated or updated configurations that may need to be added, adjusted, or removed to accommodate the new versions.
 4. Verify the accuracy of the latest version by comparing the versions in each **Description** page with the version at the top of its **Releases** pages since the examples in the **Description** pages aren't always kept up-to-date.
 5. Once you've chosen a new version, update the version number in the **ci.yml** file and, if necessary, make the additions, adjustments, or removals to accommodate the new version.
 
